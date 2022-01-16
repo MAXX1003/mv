@@ -1,0 +1,94 @@
+.cs {
+  height: 1500px;
+  position: relative;
+  bottom: 2300px;
+  left: 2100px;
+}
+.bg{
+  width: 5500px;
+}
+.slider{
+  height: 1200px;
+  position: relative;
+  bottom: 2300px;
+  left: 900px;
+}
+.tent{
+  position: relative;
+  bottom: 3000px;
+  left: 3500px;
+}
+.fn{
+  width: 3900px;
+  position: relative;
+  bottom: 5100px;
+  left: 600px;
+
+}
+.ship{
+  height: 1000px;
+  position: relative;
+  bottom: 6300px;
+  left: 2300px;
+}
+.swing{
+  position: relative;
+  bottom: 6800px;
+  right: 350px;
+
+}
+.giant{height: 2000px;
+  position: relative;
+  bottom: 8600px;
+  right: 800px;
+
+}
+.tent_1{
+  position: absolute;
+  top: 1500px;
+  right: 4100px;
+}
+.tent_2{
+  height: 2500px;
+  position:absolute;
+  top: 500px;
+  left: 300px;
+}
+.mg{
+  position: absolute;
+  top: 1550px;
+  left: 1px;
+
+}
+.entrance{height: 2500px;
+  width: 5500px;
+  position: absolute;
+  top: 550px;
+  left: 10px;
+}
+.icon{ height: 900px;
+  position: absolute;
+  top: 2000px;
+  right: 500px;
+}
+.air{
+  position: absolute;
+  top: 500px;
+  right: 500px;
+}
+.logo{height: 400px;
+  position: absolute;
+  top: 2px;
+  left: 20px;
+}
+.pc2{
+  position: absolute;
+  top: 1800px;
+  left: 20px;
+}
+.pc1{height: 1000px;
+  position: absolute;
+  top: 1800px;
+  right: 20px;
+
+}
